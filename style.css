@@ -1,0 +1,67 @@
+body{
+	background: url("https://cdn.shopify.com/s/files/1/2344/1937/products/011_copy_1024x1024@2x.jpg?v=1506042915");
+}
+
+h1{
+	font-size:27px;
+	text-align: center;
+	width:400px;
+	height:40px;
+	background-color:black;
+	border: 3px solid orange;
+	color:white;
+}
+
+h2{
+	font-size:20px;
+	text-align: center;
+	width: 400px;
+	height: 25px;
+	background-color:black;
+	border: 3px solid orange;
+	color:white;
+}
+
+h3{
+	text-align: center;
+	border: 3px solid orange;
+	color:white;
+	background-color:orange;
+}
+
+div{
+	border: 3px solid orange;
+}
+		.content {
+			max-width: 425px;
+			margin: auto;
+			font-family: Adobe Garamond Pro;
+			font-color: white;
+
+		}
+
+		.thebigthings {
+			width:400px;
+			height:245px;
+			background-color:white;
+		}
+
+		.thebigthingslist {
+			text-align: left;
+			color:orange;
+		}
+
+		.theotherthings {
+			width:400px;
+			height:350px;
+			background-color:white;
+		}
+
+		.theotherthingslist {
+			text-align: left;
+			color: orange;
+		}
+
+		.hyperlink {
+			color:orange;
+		}
